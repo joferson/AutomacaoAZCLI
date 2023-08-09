@@ -1,0 +1,2 @@
+API_BASE_URL=https://subway-api-uat.develop-k8s.vaipay.com
+API_BASE_URL_AUTH=https://subway-api-uat.develop-k8s.vaipay.com/admin
